@@ -32,4 +32,4 @@
         * in heroku.com used settings->configVars //DIDN'T WORK
         * heroku config:set MYCUSTOMVALUE=asdf //WORKED
     * to access mLab must use url found in website
-        * for Yelpcamp: mongodb://marcus:asdf1234@ds163181.mlab.com:63181/yelpcamp 
+     
